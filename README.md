@@ -1,16 +1,22 @@
-## Hi there 👋
+Hello!
 
-<!--
-**AnoushaPawarCTRL/AnoushaPawarCTRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anousha, a junior full-stack developer.
 
-Here are some ideas to get you started:
+Technologies used:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: React, TypeScript, JavaScript
+Backend: FastAPI, C++
+Database: MongoDB, PostgreSQL
+Machine Learning: TensorFlow
+
+My Projects
+
+CryoAI (iceberg monitoring app)
+
+C++ Low latency trading engine
+
+
+
+
+
+
