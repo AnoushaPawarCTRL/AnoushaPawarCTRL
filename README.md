@@ -16,7 +16,7 @@ Created CryoAI, an icberg monitoring system that can detect an iceberg from sate
 - [Frontend repo]()
 - [Backend repo]()
 
-Demo Link
+[Demo Link]()
 
 ### C++ Low latency trading engine 
 Developed a high-performance simulation of an electronic trading engine modelled on the same architecture as real exchanges. It features a live order book that implements L1, L2 and L3 market depth, displpaying best bid/ask, aggregated price levels and invididual orders in real time.
@@ -24,7 +24,7 @@ Developed a high-performance simulation of an electronic trading engine modelled
 - [Frontend repo]()
 - [Backend repo]()
 
-Demo Link
+[Demo Link]()
 
 
 
