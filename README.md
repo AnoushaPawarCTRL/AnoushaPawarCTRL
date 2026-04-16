@@ -12,9 +12,9 @@ I'm Anousha, a junior full-stack developer.
 
 ### CryoAI (iceberg monitoring app)
 Created CryoAI, an icberg monitoring system that can detect an iceberg from satellite imagery and calculate its area using U-net algorithm. It features image upload, image processing integrated with a trained model, and live data centre. 
-- [Live link]()
-- [Frontend repo]()
-- [Backend repo]()
+- [Live link]() Coming soon
+- [Frontend repo](https://github.com/AnoushaPawarCTRL/CryoAI/tree/main/frontend)
+- [Backend repo](https://github.com/AnoushaPawarCTRL/CryoAI/tree/main/backend)
 
 [Demo Link]()
 
