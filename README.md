@@ -15,7 +15,7 @@ I'm Anousha, a junior full stack developer and Computer Science graduate from Br
 A full stack task manager built with React, TypeScript, Spring Boot and PostgreSQL. Users can create projects, manage tasks, update their status and set deadlines that flag when overdue. Features JWT authentication, protected routes, integration tests through the real security filter chain, and structured error handling.
 
 * [Repo](https://github.com/AnoushaPawarCTRL/trello-lite)
-* Live demo coming soon (deploying with Docker, Nginx and HTTPS)
+* [Live demo](https://trello-lite-anousha.netlify.app), deployed with Docker on Render, Netlify and Neon. Click "Try as guest" to explore
 
 ### CryoAI (iceberg segmentation tool)
 My final year project: a tool for detecting icebergs in satellite imagery so their surface area can be measured automatically. I built a custom dataset by labelling Copernicus satellite images in QGIS, trained and evaluated U-Net, SAM, Detectron2 and ResNet50, and built a React and FastAPI platform for viewing the data. I'm currently expanding the dataset with image tiling and SAM assisted labelling to improve accuracy.
