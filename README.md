@@ -20,8 +20,8 @@ A full stack task manager built with React, TypeScript, Spring Boot and PostgreS
 ### CryoAI (iceberg segmentation tool)
 My final year project: a tool for detecting icebergs in satellite imagery so their surface area can be measured automatically. I built a custom dataset by labelling Copernicus satellite images in QGIS, trained and evaluated U-Net, SAM, Detectron2 and ResNet50, and built a React and FastAPI platform for viewing the data. I'm currently expanding the dataset with image tiling and SAM assisted labelling to improve accuracy.
 
-* [Frontend](https://github.com/AnoushaPawarCTRL/CryoAI/tree/main/frontend)
-* [Backend](https://github.com/AnoushaPawarCTRL/CryoAI/tree/main/backend)
+* [Repo](https://github.com/AnoushaPawarCTRL/CryoAI)
+
 
 ### Low Latency Trading Engine (C++)
 A high performance simulation of an electronic trading engine, modelled on real exchange architecture. I taught myself C++ to build it. It features a live order book with L1, L2 and L3 market depth, showing best bid and ask, aggregated price levels and individual orders in real time.
