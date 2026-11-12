@@ -1,6 +1,6 @@
 ## Hello! 
 
-Hi, I'm Anousha, a Computer Science graduate and junior software developer. I enjoy building full-stack applications with Java, Spring Boot, and React, and I've also worked with Python and CNN models to map and segment icebergs from satellite imagery.
+I'm Anousha, a Computer Science graduate and junior software developer. I enjoy building full-stack applications with Java, Spring Boot, and React, and I've also worked with Python and CNN models to map and segment icebergs from satellite imagery.
 
 ## Tech Stack
 
