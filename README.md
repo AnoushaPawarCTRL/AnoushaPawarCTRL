@@ -1,6 +1,6 @@
 ## Hello! 
 
-I’m Anousha, a full stack developer and Computer Science graduate from Brunel University London. I build with Java, Python and React, and I like putting AI to work on real problems, like CryoAI, which maps icebergs from satellite imagery.
+Hi, I'm Anousha, a Computer Science graduate and junior software developer. I enjoy building full-stack applications with Java, Spring Boot, and React, and I've also worked with Python and CNN models to map and segment icebergs from satellite imagery.
 
 ## Tech Stack
 
